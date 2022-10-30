@@ -4,7 +4,6 @@ import { isEmptyObject } from "@core/utils";
 import { HttpException } from "@core/exception";
 import bcryptjs from "bcryptjs";
 import IUser from "./users.interface";
-import { generateJwtToken, randomTokenString } from "@core/utils/helpers";
 
 class UserService {
   public userSchema = UserSchema;
