@@ -1,0 +1,4 @@
+[31merror[39m: [31m[ERROR] - 500 - Msg: E11000 duplicate key error collection: test.users index: name_1 dup key: { name: "dat" }[39m
+[31merror[39m: [31m[ERROR] - 500 - Msg: E11000 duplicate key error collection: test.users index: name_1 dup key: { name: "dat" }[39m
+[31merror[39m: [31m[ERROR] - 409 - Msg: Your email letyendat11@gmail.com already exist[39m
+[31merror[39m: [31m[ERROR] - 409 - Msg: Your email letyendat11@gmail.com already exist[39m
