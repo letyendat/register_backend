@@ -16,8 +16,10 @@ export default class RegisterDto {
   }
 
   @IsNotEmpty()
+  @MinLength(2)
   public name: string;
   @IsNotEmpty()
+  @IsEmail()
   public email: string;
   @IsNotEmpty()
   @MinLength(6)
