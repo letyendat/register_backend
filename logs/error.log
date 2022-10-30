@@ -2,3 +2,40 @@
 [31merror[39m: [31m[ERROR] - 500 - Msg: E11000 duplicate key error collection: test.users index: name_1 dup key: { name: "dat" }[39m
 [31merror[39m: [31m[ERROR] - 409 - Msg: Your email letyendat11@gmail.com already exist[39m
 [31merror[39m: [31m[ERROR] - 409 - Msg: Your email letyendat11@gmail.com already exist[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg: An instance of RegisterDto has failed the validation:[39m
+[31m - property password has failed the following constraints: minLength [39m
+[31m[39m
+[31merror[39m: [31m[ERROR] - 409 - Msg: Your email letyendat11@gmail.com already exist[39m
+[31merror[39m: [31m[ERROR] - 409 - Msg: Your email letyendat111111@gmail.com already exist[39m
+[31merror[39m: [31m[ERROR] - 500 - Msg: E11000 duplicate key error collection: test.users index: name_1 dup key: { name: "Rust" }[39m
+[31merror[39m: [31m[ERROR] - 500 - Msg: E11000 duplicate key error collection: test.users index: name_1 dup key: { name: "Rust" }[39m
+[31merror[39m: [31m[ERROR] - 500 - Msg: E11000 duplicate key error collection: test.users index: name_1 dup key: { name: "Rust" }[39m
+[31merror[39m: [31m[ERROR] - 500 - Msg: E11000 duplicate key error collection: test.users index: name_1 dup key: { name: "Rust" }[39m
+[31merror[39m: [31m[ERROR] - 500 - Msg: E11000 duplicate key error collection: test.users index: name_1 dup key: { name: "Rust" }[39m
+[31merror[39m: [31m[ERROR] - 500 - Msg: E11000 duplicate key error collection: test.users index: name_1 dup key: { name: "Rust" }[39m
+[31merror[39m: [31m[ERROR] - 500 - Msg: E11000 duplicate key error collection: test.users index: name_1 dup key: { name: "Rust1" }[39m
+[31merror[39m: [31m[ERROR] - 409 - Msg: Your email yennhi111@gmail.com already exist[39m
+[31merror[39m: [31m[ERROR] - 409 - Msg: Your email yennhi111@gmail.com already exist[39m
+[31merror[39m: [31m[ERROR] - 409 - Msg: Your email yennhi111@gmail.com already exist[39m
+[31merror[39m: [31m[ERROR] - 409 - Msg: Your email yennhi111@gmail.com already exist[39m
+[31merror[39m: [31m[ERROR] - 409 - Msg: Your email yennhi111@gmail.com already exist[39m
+[31merror[39m: [31m[ERROR] - 409 - Msg: Your email yennhi111@gmail.com already exist[39m
+[31merror[39m: [31m[ERROR] - 409 - Msg: Your email yennhi111@gmail.com already exist[39m
+[31merror[39m: [31m[ERROR] - 409 - Msg: Your email yennhi111@gmail.com already exist[39m
+[31merror[39m: [31m[ERROR] - 409 - Msg: Your email yennhi111@gmail.com already exist[39m
+[31merror[39m: [31m[ERROR] - 409 - Msg: Your email yennhi111@gmail.com already exist[39m
+[31merror[39m: [31m[ERROR] - 409 - Msg: Your email yennhi111@gmail.com already exist[39m
+[31merror[39m: [31m[ERROR] - 409 - Msg: Your email yennhi111@gmail.com already exist[39m
+[31merror[39m: [31m[ERROR] - 409 - Msg: Your email yennhi111@gmail.com already exist[39m
+[31merror[39m: [31m[ERROR] - 409 - Msg: Your email yennhi111@gmail.com already exist[39m
+[31merror[39m: [31m[ERROR] - 409 - Msg: Your email letyendat11@gmail.com already exist[39m
+[31merror[39m: [31m[ERROR] - 409 - Msg: Your email yennhi111@gmail.com already exist[39m
+[31merror[39m: [31m[ERROR] - 409 - Msg: Your email yennhi111@gmail.com already exist[39m
+[31merror[39m: [31m[ERROR] - 409 - Msg: Your email yennhi1111@gmail.com already exist[39m
+[31merror[39m: [31m[ERROR] - 409 - Msg: Your email yennhi1111@gmail.com already exist[39m
+[31merror[39m: [31m[ERROR] - 409 - Msg: Your email letyendat@gmail.com already exist[39m
+[31merror[39m: [31m[ERROR] - 409 - Msg: Your email letyendat@gmail.com already exist[39m
+[31merror[39m: [31m[ERROR] - 409 - Msg: Your email letyendat@gmail.com already exist[39m
+[31merror[39m: [31m[ERROR] - 409 - Msg: Your email letyendat@gmail.com already exist[39m
+[31merror[39m: [31m[ERROR] - 409 - Msg: Your email letyendat@gmail.com already exist[39m
+[31merror[39m: [31m[ERROR] - 409 - Msg: Your email letyendat@gmail.com already exist[39m
